@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="278003d1341ad4516732d9ba7048f3aee6906f28">
+        <dex dex="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4d0ee1217f64ffca4affa9fcbc15428f54f48d9d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/lib/TarsosDSP-Android-latest.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82afc90486cffd3cf6ce82e1680567d8c5f3b268">
+        <dex dex="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/transforms/dex/debug/folders/1000/2/TarsosDSP-Android-latest_da5994a4fcb59136614fc67f6e90813f44f4b3b8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.1"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_15b535b2e962a08eb09ae61d9dd7f29c003c8422/classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/lib/TarsosDSP-Android-latest.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.1"
+        sha1="82afc90486cffd3cf6ce82e1680567d8c5f3b268">
+        <dex dex="/Users/tiantianfeng/Desktop/TILEs/Posh_Mobile_Pilot/Posh_Mobile_Pilot/app/build/intermediates/pre-dexed/debug/TarsosDSP-Android-latest_da5994a4fcb59136614fc67f6e90813f44f4b3b8.jar" />
+    </item>
+
+</items>
